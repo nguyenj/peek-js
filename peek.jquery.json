@@ -1,0 +1,28 @@
+{
+  "name": "peek",
+  "title": "Peek",
+  "description": "",
+  "version": "0.1.0",
+  "homepage": "https://github.com/jnguyen/jquery-peek",
+  "author": {
+    "name": "John Nguyen",
+    "email": "hello@jnguyen.me",
+    "url": "http://jnguyen.me"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jnguyen/jquery-peek.git"
+  },
+  "bugs": "https://github.com/jnguyen/jquery-peek/issues",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/jnguyen/jquery-peek/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": "*",
+    "jquery-ui": "*"
+  },
+  "keywords": []
+}
